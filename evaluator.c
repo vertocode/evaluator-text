@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int count(string word1);
+//int count(string word1);
 int main(void)
 {
     //Get the text
